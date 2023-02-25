@@ -5,4 +5,4 @@ In this case study, I will perform many real-world tasks of a junior data analys
 
 These datasets were used in the Bellabeat case study for the Google Analytics capstone project. The dataset is under this [license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
-Click [here]() to view my analysis.
+Click [here](https://github.com/SomonOlimzoda/BellaBeatCaseStudy/blob/main/.md) to view my analysis.
